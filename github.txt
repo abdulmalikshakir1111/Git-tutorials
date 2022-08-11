@@ -1,3 +1,5 @@
 remote origion means web server where we can save our code 
 1)set remote origion for the folder /repo
-3)after first commit this is first line 
+2)chnage after 2 commit 
+3)after first commit this is first line
+ 
