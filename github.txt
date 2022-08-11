@@ -1,0 +1,2 @@
+remote origion means web server where we can save our code 
+1)set remote origion for the folder /repo
